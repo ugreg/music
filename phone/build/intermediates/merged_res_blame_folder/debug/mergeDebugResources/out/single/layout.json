@@ -1,34 +1,30 @@
 [
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/nav_header_main.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/nav_header_main.xml"
-    },
-    {
         "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/app_bar_main.xml",
         "source": "uno.greg.music.phone-main-56:/layout/app_bar_main.xml"
     },
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/app_bar_main.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/app_bar_main.xml"
+        "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "uno.greg.music.phone-main-56:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/fragment_gallery.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/fragment_gallery.xml"
+        "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/nav_header_main.xml",
+        "source": "uno.greg.music.phone-main-56:/layout/nav_header_main.xml"
     },
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/fragment_slideshow.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/fragment_slideshow.xml"
+        "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/fragment_gallery.xml",
+        "source": "uno.greg.music.phone-main-56:/layout/fragment_gallery.xml"
     },
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/fragment_home.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/fragment_home.xml"
+        "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/content_main.xml",
+        "source": "uno.greg.music.phone-main-56:/layout/content_main.xml"
     },
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/activity_main.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/activity_main.xml"
+        "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/fragment_home.xml",
+        "source": "uno.greg.music.phone-main-56:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-mergeDebugResources-53:/layout/content_main.xml",
-        "source": "/Users/greg/.gradle/daemon/8.13/uno.greg.music.phone-main-56:/layout/content_main.xml"
+        "merged": "uno.greg.music.phone-mergeDebugResources-53:/layout/fragment_slideshow.xml",
+        "source": "uno.greg.music.phone-main-56:/layout/fragment_slideshow.xml"
     }
 ]

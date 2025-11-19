@@ -9,14 +9,14 @@
 9        android:targetSdkVersion="36" />
 10
 11    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
-11-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:6:5-76
-11-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:6:22-73
+11-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:6:5-76
+11-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:6:22-73
 12    <uses-permission android:name="com.google.android.gms.permission.BIND_LISTENER" />
-12-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:7:5-123
-12-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:7:22-84
+12-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:7:5-123
+12-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:7:22-84
 13    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
-13-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:8:5-75
-13-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:8:22-72
+13-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:8:5-75
+13-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:8:22-72
 14
 15    <permission
 15-->[androidx.core:core:1.17.0] /Users/greg/.gradle/caches/8.13/transforms/685a68e74dc9ac57333d95f3bd97aca5/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
@@ -30,43 +30,43 @@
 19-->[androidx.core:core:1.17.0] /Users/greg/.gradle/caches/8.13/transforms/685a68e74dc9ac57333d95f3bd97aca5/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
 20
 21    <application
-21-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:10:5-27:19
+21-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:10:5-27:19
 22        android:allowBackup="true"
-22-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:11:9-35
+22-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:11:9-35
 23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 23-->[androidx.core:core:1.17.0] /Users/greg/.gradle/caches/8.13/transforms/685a68e74dc9ac57333d95f3bd97aca5/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
 24        android:debuggable="true"
 25        android:extractNativeLibs="false"
 26        android:icon="@mipmap/ic_launcher"
-26-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:12:9-43
+26-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:12:9-43
 27        android:label="@string/app_name"
-27-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:13:9-41
+27-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:13:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:14:9-54
+28-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:14:9-54
 29        android:supportsRtl="true"
-29-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:15:9-35
+29-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:15:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.UnoMusic" >
-31-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:16:9-46
+31-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:16:9-46
 32        <activity
-32-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:17:9-26:20
+32-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:17:9-26:20
 33            android:name="uno.greg.music.MainActivity"
-33-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:18:13-41
+33-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:18:13-41
 34            android:exported="true"
-34-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:19:13-36
+34-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:19:13-36
 35            android:label="@string/app_name"
-35-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:20:13-45
+35-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:20:13-45
 36            android:theme="@style/Theme.UnoMusic.NoActionBar" >
-36-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:21:13-62
+36-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:21:13-62
 37            <intent-filter>
-37-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:22:13-25:29
+37-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:22:13-25:29
 38                <action android:name="android.intent.action.MAIN" />
-38-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:23:17-69
-38-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:23:25-66
+38-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:23:17-69
+38-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:23:25-66
 39
 40                <category android:name="android.intent.category.LAUNCHER" />
-40-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:24:17-77
-40-->/Users/greg/_/xula/wearos/music/phone/src/main/AndroidManifest.xml:24:27-74
+40-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:24:17-77
+40-->/Users/greg/_/music/phone/src/main/AndroidManifest.xml:24:27-74
 41            </intent-filter>
 42        </activity>
 43

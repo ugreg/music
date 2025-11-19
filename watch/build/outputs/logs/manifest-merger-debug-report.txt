@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:95:9-103:20
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:95:9-103:20
 	android:grantUriPermissions
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:99:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:99:13-47
 	android:authorities
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:97:13-60
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:97:13-60
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:98:13-37
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:98:13-37
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:96:13-62
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:96:13-62
 manifest
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:2:1-150:12
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:2:1-150:12
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:2:1-150:12
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:2:1-150:12
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:2:1-150:12
 MERGED from [androidx.databinding:viewbinding:8.12.2] /Users/greg/.gradle/caches/8.13/transforms/0d09713d9d78965e0187624f0e7b9d6b/transformed/viewbinding-8.12.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.wear.compose:compose-material-core:1.2.1] /Users/greg/.gradle/caches/8.13/transforms/1678e5cabb222e2b50c095722a54904f/transformed/compose-material-core-1.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.wear.compose:compose-foundation:1.2.1] /Users/greg/.gradle/caches/8.13/transforms/34369e98b56cb356cc4ec6435daaefcb/transformed/compose-foundation-1.2.1/AndroidManifest.xml:2:1-7:12
@@ -101,69 +101,69 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/greg/.gradle/cache
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/greg/.gradle/caches/8.13/transforms/ea525a6eb2498f098f56ade49cde4f77/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/greg/.gradle/caches/8.13/transforms/dbc634052b3bb275c16eb7e92109a0c5/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 	package
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:4:5-29
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:6:5-68
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:6:5-68
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:6:22-65
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:6:22-65
 uses-permission#android.permission.BLUETOOTH_CONNECT
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:7:5-76
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:7:22-73
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:7:22-73
 uses-permission#android.permission.READ_MEDIA_AUDIO
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:8:5-75
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:8:5-75
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:8:22-72
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:8:22-72
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:9:5-66
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:9:5-66
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:9:22-63
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:9:22-63
 uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:10:5-82
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:10:5-82
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:10:22-79
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:10:22-79
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:11:5-80
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:11:22-77
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:11:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:12:5-81
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:12:22-78
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.ACCESS_MEDIA_LOCATION
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:13:5-80
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:13:22-77
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:13:22-77
 uses-permission#android.permission.MANAGE_MEDIA
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:14:5-71
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:14:5-71
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:14:22-68
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:14:22-68
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:15:5-82
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:15:5-82
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:15:22-80
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:15:22-80
 uses-permission#com.google.android.gms.permission.BIND_LISTENER
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:16:5-123
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:16:5-123
 	tools:ignore
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:16:85-120
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:16:85-120
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:16:22-84
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:16:22-84
 uses-feature#android.hardware.type.watch
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:18:5-64
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:18:5-64
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:18:19-61
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:18:19-61
 application
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:20:5-115:19
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:20:5-115:19
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:20:5-115:19
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:20:5-115:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/greg/.gradle/caches/8.13/transforms/39f526115b494adba11ec5706618577e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/greg/.gradle/caches/8.13/transforms/39f526115b494adba11ec5706618577e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/greg/.gradle/caches/8.13/transforms/a4c7588bec800baf89ec17ca29f88d6f/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
@@ -197,161 +197,161 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/greg/.grad
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/greg/.gradle/caches/8.13/transforms/29d71f078c78485fb2225bcab7ed5161/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/greg/.gradle/caches/8.13/transforms/29d71f078c78485fb2225bcab7ed5161/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 	android:requestLegacyExternalStorage
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:25:9-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:25:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.16.0] /Users/greg/.gradle/caches/8.13/transforms/efb2f115698c9b5163120167ebc4ff02/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:24:9-41
 	android:icon
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:27:9-41
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:27:9-41
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:21:9-30
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:21:9-30
 service#uno.greg.music.ui.MyWearListenerService
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:29:9-38:19
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:29:9-38:19
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:31:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:31:13-36
 	tools:ignore
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:32:13-42
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:32:13-42
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:30:13-53
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:30:13-53
 intent-filter#action:name:com.google.android.gms.wearable.MESSAGE_RECEIVED+data:host:*+data:host:*+data:path:/hello_message+data:path:/mp+data:scheme:wear+data:scheme:wear
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:33:13-37:29
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:33:13-37:29
 action#com.google.android.gms.wearable.MESSAGE_RECEIVED
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:34:17-91
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:34:17-91
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:34:25-88
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:34:25-88
 data
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:35:17-94
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:35:17-94
 	android:path
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:35:62-91
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:35:62-91
 	android:host
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:35:45-61
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:35:45-61
 	android:scheme
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:35:23-44
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:35:23-44
 activity#uno.greg.music.ui.MainActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:40:9-45:20
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:40:9-45:20
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:42:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:42:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:43:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:43:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:44:13-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:44:13-52
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:41:13-44
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:41:13-44
 activity#uno.greg.music.ui.SettingsActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:47:9-56:20
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:47:9-56:20
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:49:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:49:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:50:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:50:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:51:13-56
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:51:13-56
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:48:13-48
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:48:13-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:52:13-55:29
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:52:13-55:29
 action#android.intent.action.MAIN
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:53:17-69
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:53:25-66
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:53:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:54:17-77
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:54:27-74
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:54:27-74
 activity#uno.greg.music.ui.MenuActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:58:9-63:54
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:58:9-63:54
 	android:noHistory
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:60:13-37
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:60:13-37
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:61:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:61:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:62:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:62:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:63:13-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:63:13-52
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:59:13-44
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:59:13-44
 activity#uno.greg.music.ui.action.ActionDeleteActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:65:9-68:54
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:65:9-68:54
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:66:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:66:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:67:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:67:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:68:13-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:68:13-52
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:65:19-65
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:65:19-65
 activity#androidx.wear.activity.ConfirmationActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:75:9-78:81
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:75:9-78:81
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:76:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:76:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:77:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:77:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:78:13-79
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:78:13-79
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:75:19-77
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:75:19-77
 activity#uno.greg.music.ui.action.ActionRenameActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:80:9-83:54
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:80:9-83:54
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:81:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:81:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:82:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:82:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:83:13-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:83:13-52
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:80:19-65
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:80:19-65
 activity#uno.greg.music.ui.action.ActionNewFolderActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:85:9-88:54
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:85:9-88:54
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:86:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:86:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:87:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:87:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:88:13-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:88:13-52
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:85:19-68
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:85:19-68
 activity#uno.greg.music.ui.action.ActionTransferActivity
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:90:9-93:54
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:90:9-93:54
 	android:exported
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:91:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:91:13-36
 	android:manageSpaceActivity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:92:13-47
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:92:13-47
 	android:taskAffinity
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:93:13-52
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:93:13-52
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:90:19-67
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:90:19-67
 uses-library#com.google.android.wearable
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:105:9-107:39
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:105:9-107:39
 MERGED from [androidx.wear:wear:1.3.0] /Users/greg/.gradle/caches/8.13/transforms/6497bfa02d124daf70f458113050f576/transformed/wear-1.3.0/AndroidManifest.xml:23:9-25:40
 MERGED from [androidx.wear:wear:1.3.0] /Users/greg/.gradle/caches/8.13/transforms/6497bfa02d124daf70f458113050f576/transformed/wear-1.3.0/AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:107:13-36
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:107:13-36
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:106:13-55
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:106:13-55
 meta-data#com.google.android.wearable.standalone
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:112:9-114:36
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:112:9-114:36
 	android:value
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:114:13-33
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:114:13-33
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:113:13-66
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:113:13-66
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:100:13-102:58
+ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:100:13-102:58
 	android:resource
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:102:17-55
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:102:17-55
 	android:name
-		ADDED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml:101:17-67
+		ADDED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml:101:17-67
 uses-sdk
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
-INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
+INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.12.2] /Users/greg/.gradle/caches/8.13/transforms/0d09713d9d78965e0187624f0e7b9d6b/transformed/viewbinding-8.12.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.12.2] /Users/greg/.gradle/caches/8.13/transforms/0d09713d9d78965e0187624f0e7b9d6b/transformed/viewbinding-8.12.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.wear.compose:compose-material-core:1.2.1] /Users/greg/.gradle/caches/8.13/transforms/1678e5cabb222e2b50c095722a54904f/transformed/compose-material-core-1.2.1/AndroidManifest.xml:5:5-44
@@ -523,9 +523,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/greg/.gradle/caches/8.13/transforms/dbc634052b3bb275c16eb7e92109a0c5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/greg/.gradle/caches/8.13/transforms/dbc634052b3bb275c16eb7e92109a0c5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/greg/_/xula/wearos/music/watch/src/main/AndroidManifest.xml
+		INJECTED from /Users/greg/_/music/watch/src/main/AndroidManifest.xml
 uses-library#wear-sdk
 ADDED from [androidx.wear:wear-remote-interactions:1.1.0] /Users/greg/.gradle/caches/8.13/transforms/7a8406f6f49e34ec713edfe099ae1369/transformed/wear-remote-interactions-1.1.0/AndroidManifest.xml:23:9-25:40
 	android:required

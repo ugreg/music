@@ -63,10 +63,10 @@ uno.greg.music.watch-material-icons-core-release-61 /Users/greg/.gradle/caches/8
 uno.greg.music.watch-foundation-layout-release-62 /Users/greg/.gradle/caches/8.13/transforms/f3bfa630e8ac4b35d14b0983b4686383/transformed/foundation-layout-release/res
 uno.greg.music.watch-ui-util-release-63 /Users/greg/.gradle/caches/8.13/transforms/f524260cf2709bec24ac16aab652aa6a/transformed/ui-util-release/res
 uno.greg.music.watch-ui-test-manifest-1.7.0-64 /Users/greg/.gradle/caches/8.13/transforms/f9983bcbdd0341cad917625f3cf6953c/transformed/ui-test-manifest-1.7.0/res
-uno.greg.music.watch-pngs-65 /Users/greg/_/xula/wearos/music/watch/build/generated/res/pngs/debug
-uno.greg.music.watch-resValues-66 /Users/greg/_/xula/wearos/music/watch/build/generated/res/resValues/debug
-uno.greg.music.watch-packageDebugResources-67 /Users/greg/_/xula/wearos/music/watch/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-uno.greg.music.watch-packageDebugResources-68 /Users/greg/_/xula/wearos/music/watch/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-uno.greg.music.watch-debug-69 /Users/greg/_/xula/wearos/music/watch/build/intermediates/merged_res/debug/mergeDebugResources
-uno.greg.music.watch-debug-70 /Users/greg/_/xula/wearos/music/watch/src/debug/res
-uno.greg.music.watch-main-71 /Users/greg/_/xula/wearos/music/watch/src/main/res
+uno.greg.music.watch-pngs-65 /Users/greg/_/music/watch/build/generated/res/pngs/debug
+uno.greg.music.watch-resValues-66 /Users/greg/_/music/watch/build/generated/res/resValues/debug
+uno.greg.music.watch-packageDebugResources-67 /Users/greg/_/music/watch/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+uno.greg.music.watch-packageDebugResources-68 /Users/greg/_/music/watch/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+uno.greg.music.watch-debug-69 /Users/greg/_/music/watch/build/intermediates/merged_res/debug/mergeDebugResources
+uno.greg.music.watch-debug-70 /Users/greg/_/music/watch/src/debug/res
+uno.greg.music.watch-main-71 /Users/greg/_/music/watch/src/main/res
