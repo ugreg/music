@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/raw_interlude.mp3.flat",
+        "source": "uno.greg.music.watch-main-71:/raw/interlude.mp3"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_edit.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/edit.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_icon_presentation.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/icon_presentation.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_image.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/image.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_copy.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/copy.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_icon_code.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/icon_code.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/raw_midnight.mp3.flat",
+        "source": "uno.greg.music.watch-main-71:/raw/midnight.mp3"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/xml_provider_paths.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_activity_action_new_folder.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_action_new_folder.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_video.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/video.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_close.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/close.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_item_settings_header.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/item_settings_header.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_gradient.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/gradient.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_splash_icon.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/splash_icon.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_file_item.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/file_item.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_music_icon.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/music_icon.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_apk_document.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/apk_document.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_info.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/info.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_activity_files.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_files.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_activity_action_delete.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_action_delete.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_error_icon.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/error_icon.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_palette.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/palette.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_delete.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/delete.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_action_item.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/action_item.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_activity_action_rename.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_action_rename.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_arrow_back.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/arrow_back.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_path_view.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/path_view.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_splash_screen.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_activity_main.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_icon_zip.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/icon_zip.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_icon_table.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/icon_table.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/raw_shuffle.mp3.flat",
+        "source": "uno.greg.music.watch-main-71:/raw/shuffle.mp3"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_new_folder.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/new_folder.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_settings_item.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/settings_item.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_more_button.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/more_button.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_done.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/done.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/raw_borderless.mp3.flat",
+        "source": "uno.greg.music.watch-main-71:/raw/borderless.mp3"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "uno.greg.music.watch-main-71:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_icon_doc.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/icon_doc.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_file.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/file.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_back_button.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/back_button.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_github.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/github.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_pdf.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/pdf.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_music.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/music.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_tile_preview.png.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/tile_preview.png"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_draft.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/draft.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_menu.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/menu.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_rounded_background.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_paste.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/paste.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_settings.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/settings.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_more.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/more.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_cut.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/cut.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/layout_item_for_action.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/layout/item_for_action.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-debug-69:/drawable_folder.xml.flat",
+        "source": "uno.greg.music.watch-main-71:/drawable/folder.xml"
+    }
+]

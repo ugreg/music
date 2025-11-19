@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/activity_action_rename.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_action_rename.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/item_for_action.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/item_for_action.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/settings_item.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/settings_item.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/more_button.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/more_button.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/activity_files.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_files.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/item_settings_header.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/item_settings_header.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/file_item.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/file_item.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/activity_main.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/path_view.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/path_view.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/action_item.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/action_item.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/activity_action_new_folder.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_action_new_folder.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/activity_action_delete.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/activity_action_delete.xml"
+    },
+    {
+        "merged": "uno.greg.music.watch-mergeDebugResources-68:/layout/back_button.xml",
+        "source": "uno.greg.music.watch-main-71:/layout/back_button.xml"
+    }
+]
